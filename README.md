@@ -4,8 +4,10 @@ En este proyecto, desarrollaremos una pagina web para gestionar un listado de ju
 
 ## Creando la pagina web
 
-Primero empezaré creando una maqueta de la pagina donde se encontrará un html con su archivo styles.css
+Primero empezaré creando una maqueta de la pagina donde se encontrará un html con su archivo styles.css.
 
 ---
 
-En la carpeta Imagenes se encuentran las imagenes que eh utilizado durante la realización del proyecto, y en la carpeta Maquetado esta el archvio .html y su .css
+En la carpeta Imagenes se encuentran las imagenes que eh utilizado durante la realización del proyecto, y en la carpeta Maquetado esta el archvio .html y su .css.
+
+En la capeta Angular/pagina-fifa estará presentado la misma pagina pero en angular y a partir de ahí se realizarán las direfentes ruta, conexión con el backend, entre otros.
