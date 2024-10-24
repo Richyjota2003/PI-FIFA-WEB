@@ -13,3 +13,15 @@ En la carpeta Imagenes se encuentran las imagenes que eh utilizado durante la re
 En la capeta Angular/pagina-fifa estará presentado la misma pagina pero en angular y a partir de ahí se realizarán las direfentes ruta, conexión con el backend, entre otros.
 
 ## Angular
+
+En la carpeta llamada **"core"**, se encontrarán los script del header y del background, en la carpetal **"model"**, se encuentra el
+contenido que debe cumplir el listado del menú.
+
+En la carpeta **"views"** estaran las otras vistas de las paginas, que esta incluye:
+
+- Home.
+- Listado de jugadores.
+- Información de jugadores.
+- Editar jugador.
+- Create como jugador.
+- Iniciar sesion.
