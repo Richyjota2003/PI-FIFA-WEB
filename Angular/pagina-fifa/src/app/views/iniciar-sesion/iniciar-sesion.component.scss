@@ -1,0 +1,22 @@
+#bombo1{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 980px;
+}
+#bombo2{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -15px;
+}
+
+.transparent{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 980px;
+    width: 880px;
+    height: 820px;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    color: white;
+}

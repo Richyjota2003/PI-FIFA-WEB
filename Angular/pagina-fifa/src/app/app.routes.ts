@@ -1,8 +1,6 @@
 import { Routes } from '@angular/router';
 import { ListadoDeJugadoresComponent } from './views/listado-de-jugadores/listado-de-jugadores.component';
 import { InformacionDeJugadorComponent } from './views/informacion-de-jugador/informacion-de-jugador.component';
-import path from 'path';
-import { Component } from '@angular/core';
 import { EditarJugadorComponent } from './views/editar-jugador/editar-jugador.component';
 import { CreateComoJugadorComponent } from './views/create-como-jugador/create-como-jugador.component';
 import { IniciarSesionComponent } from './views/iniciar-sesion/iniciar-sesion.component';
