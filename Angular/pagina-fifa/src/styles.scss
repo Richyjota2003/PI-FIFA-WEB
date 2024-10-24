@@ -1,1 +1,38 @@
-/* You can add global styles to this file, and also import other style files */
+html{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    overflow-x: hidden;
+}
+header{
+    display: flex;
+    margin-left: -25px;
+    margin-top: -10px;
+    width: 1920px;
+    height: 120px;
+    background-color: #045694;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.menu ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 450px;
+}
+
+.menu li{
+    margin-top: 35px;
+    margin-left: 30px;
+    font-size: 17px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    a{
+        color: white;
+        text-decoration: none;
+    }
+}
